@@ -1,0 +1,1 @@
+Custom WordPress theme for cyndigundy.com by Brian W. Compton.
