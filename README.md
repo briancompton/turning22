@@ -1,1 +1,1 @@
-Custom WordPress theme for cyndigundy.com by Brian W. Compton.
+Custom WordPress theme for turning22.org by Brian W. Compton.
